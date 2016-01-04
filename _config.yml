@@ -1,7 +1,7 @@
 name: kaostomat
 favicon: null
-layout_spectrum: 0.2195546126458794
-typography_spectrum: 0.9164881457109004
+layout_spectrum: 0.98887
+typography_spectrum: 0.40325
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7794459871947765
-  lightness: 0.8567448167596012
-  saturation: 0.34017136809416115
-  rhythmicContrast: 0.05903013260103762
+  brandStrength: 0
+  lightness: 0.875
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []

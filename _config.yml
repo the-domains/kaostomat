@@ -1,0 +1,28 @@
+name: kaostomat
+favicon: null
+layout_spectrum: 0.2195546126458794
+typography_spectrum: 0.9164881457109004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7794459871947765
+  lightness: 0.8567448167596012
+  saturation: 0.34017136809416115
+  rhythmicContrast: 0.05903013260103762
+purpose: []

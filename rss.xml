@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kaostomat]]></title>
         <description><![CDATA[kaostomat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaostomat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 18:37:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 18:48:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaostomat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Annie Leibovitz er så mega sej... han kan alt... hun har inspireret mig sindssyg meget!</p>]]></description>
+            <link>https://thegrid.ai/kaostomat/52d1bf93-7f19-4279-b1c5-c3fd46eacec1/index.html</link>
+            <guid isPermaLink="false">52d1bf93-7f19-4279-b1c5-c3fd46eacec1</guid>
+            <pubDate>Mon, 04 Jan 2016 18:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d783bf2-0ded-44f2-822c-7e608a8377f0.jpg">]]></description>
-            <link>undefineda2507857-67f2-456b-88e4-219cb03bfbc3/index.html</link>
+            <link>https://thegrid.ai/kaostomat/a2507857-67f2-456b-88e4-219cb03bfbc3/index.html</link>
             <guid isPermaLink="false">a2507857-67f2-456b-88e4-219cb03bfbc3</guid>
             <pubDate>Mon, 04 Jan 2016 18:37:11 GMT</pubDate>
         </item>
